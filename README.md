@@ -8,7 +8,8 @@ Livraria Alurabook
 | -------------  | --- |
 | :sparkles: Nome        | **Alurabook**
 | :label: Tecnologias | java, html, css 
-| :rocket: URL         |
+| :rocket: URL         |https://bruno-meireles.github.io/Alurabook/
+| :github: URL         |https://github.com/Bruno-Meireles/Alurabook.git
 
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
