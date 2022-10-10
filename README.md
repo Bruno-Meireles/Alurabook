@@ -1,17 +1,22 @@
-# Nome do meu projeto
+# Alurabook
 
-Rápida descrição do objetivo de fazer esse projeto
+![Screenshot_10](https://user-images.githubusercontent.com/88012503/194906976-23839288-eacd-4ee3-bc7c-a988e2a5bb45.png)
 
-| :placard: Vitrine.Dev |     |
+Livraria Alurabook
+
+| :placard: Vitrine.Dev | Bruno Meireles    |
 | -------------  | --- |
-| :sparkles: Nome        | **Titulo do meu projeto**
-| :label: Tecnologias | java, html, ruby, c# (tecnologias utilizadas)
-| :rocket: URL         | https://url-deploy.com.br
-| :fire: Desafio     | https://url-do-desafio.com.br
+| :sparkles: Nome        | **Alurabook**
+| :label: Tecnologias | java, html, css 
+| :rocket: URL         |
+
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
+![Screenshot_11](https://user-images.githubusercontent.com/88012503/194906479-e70617eb-c194-482c-81e8-85dd5a0693c9.png)
 
-## Detalhes do projeto
 
-Textos e imagens que descrevam seu projeto, suas conquistas, seus desafios, próximos passos, etc...
+## Projeto feito com alura para site responsivos
+
+
+
+![Screenshot_12](https://user-images.githubusercontent.com/88012503/194906502-5eea0fcd-a3ea-4dca-b749-80654666649f.png)
